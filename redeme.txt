@@ -16,3 +16,7 @@ npx prisma init --datasource-provider postgresql
 npx prisma migrate dev --name init
 
 npx prisma studio
+
+npx prisma db seed
+
+npm install -D ts-node
