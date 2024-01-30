@@ -20,3 +20,6 @@ npx prisma studio
 npx prisma db seed
 
 npm install -D ts-node
+
+
+npx shadcn-ui@latest init
