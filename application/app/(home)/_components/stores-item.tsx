@@ -11,7 +11,7 @@ interface StoreItemProps {
 const StoresItem = ({store} : StoreItemProps) => {
 
     return ( 
-        <Card className="min-w-[167px] max-w-[167px] rounded-2xl">
+        <Card className="min-w-[167px] max-w-[167px] rounded-2xl hover:scale-[97%]">
             <CardContent className="p-0 shadow-sm">
                 <div className="w-full h-[159px] relative">
                     <Image 
