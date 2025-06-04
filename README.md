@@ -73,18 +73,18 @@ npm run dev
 
 ## 🎯 Objetivos de Aprendizado
 ✅ Prática com Next.js e conceitos de SSR/SSG
-✅ Integração e manipulação de banco de dados via Prisma
-✅ Estruturação de projeto profissional com TypeScript
-✅ Aprimoramento do fluxo de desenvolvimento com Docker
+<br>✅ Integração e manipulação de banco de dados via Prisma
+<br>✅ Estruturação de projeto profissional com TypeScript
+<br>✅ Aprimoramento do fluxo de desenvolvimento com Docker
 
 ## 📌 Status
-🚧 Em desenvolvimento
-🔄 Sujeito a mudanças frequentes
-💡 Foco: aprendizado e melhoria contínua
+<br>🚧 Em desenvolvimento
+<br>🔄 Sujeito a mudanças frequentes
+<br>💡 Foco: aprendizado e melhoria contínua
 
 ## 🤝 Contribuições
 Este projeto é pessoal e voltado para estudo, mas sugestões e dicas são sempre bem-vindas!
-Sinta-se à vontade para abrir issues ou propor pull requests.
+<br>Sinta-se à vontade para abrir issues ou propor pull requests.
 
 ## 👨‍💻 Autor
 Desenvolvido por Victor Ferreira Franco
