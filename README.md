@@ -78,7 +78,7 @@ npm run dev
 <br>✅ Aprimoramento do fluxo de desenvolvimento com Docker
 
 ## 📌 Status
-<br>🚧 Em desenvolvimento
+🚧 Em desenvolvimento
 <br>🔄 Sujeito a mudanças frequentes
 <br>💡 Foco: aprendizado e melhoria contínua
 
